@@ -1,7 +1,7 @@
 {
   "name": "bolt-installer-course",
-  "private": true,
   "version": "1.0.0",
+  "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -14,10 +14,10 @@
     "lucide-react": "0.473.0"
   },
   "devDependencies": {
-  "autoprefixer": "10.4.19",
-  "postcss": "8.4.31",
-  "tailwindcss": "3.4.10",
-  "typescript": "5.5.4",
-  "@types/react": "18.2.22",
-  "@types/node": "20.8.2"
+    "autoprefixer": "10.4.19",
+    "postcss": "8.4.31",
+    "tailwindcss": "3.4.10"
+  }
+}
+  
 }
